@@ -1,6 +1,6 @@
-# Experiments
+# Experiments - Caution: Undergoing adjustments. You will be notified as soon this repo is working properly on a local machine!
 
-This a basic example of how a Django and React project can be set up
+This a basic example of how a Django and React project can be set up.
 
 ### Usefull resources
 <ol>
@@ -9,4 +9,4 @@ This a basic example of how a Django and React project can be set up
   <li>In order to not create too many folders during the initialization of a django project, use the statement "django-admin startproject name_project path_project" - <a href="https://stackoverflow.com/questions/31431924/force-django-admin-startproject-if-project-folder-already-e">The reference was found on stackoverflow</a></li>
 </ol>
 
-Further adjustments / improvements are going to be implemented (For instance, how the db.sqlite3 file is handled). Feel free to pull the repository to your machines :grinning: 
+Further adjustments / improvements are going to be implemented (For instance, how the db.sqlite3 file is handled, dockerignore and gitignore). Feel free to pull the repository to your machines :grinning: 
